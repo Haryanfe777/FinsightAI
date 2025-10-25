@@ -1,0 +1,10 @@
+# .gitignore
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+outputs/
+data/
+tests/
+config/

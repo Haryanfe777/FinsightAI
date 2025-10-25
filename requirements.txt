@@ -1,0 +1,27 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+langchain
+langchain-openai
+google-generativeai
+openai
+dotenv
+deepseek-ai
+deepseek-chat
+sentence-transformers
+transformers
+torch
+faiss-cpu
+langchainhub
+traceloop-sdk
+yfinance
+sec-api
+beautifulsoup4
+python-dotenv
+newsapi-python
+camelot-py, pdfplumber, pd2image
+pandas-profiling
+langchain-text-splitters
+chromadb
+pytesseract
